@@ -17,4 +17,4 @@ To list all note, run `node app.js list` on terminal.
 
 To read a note, run `node app.js read --title="{replace this with title you want to read}"`.
 
-This is just simple node js app. At this time of this writting, i am currently learning node js from the basic.
+This is just simple node js app. At the time of this writting, i am currently learning node js from the basic.
